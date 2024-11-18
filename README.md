@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @melonMice
 - 👀 I’m interested in datascience anld machine learning engineer
 - 🌱 I’m currently learning python,DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: 
 - ⚡ Fun fact: I beleive every bug in code tells story - I just need to debug it to find the plot twist
 
 <!---
