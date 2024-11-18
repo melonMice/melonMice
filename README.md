@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melonMice
 - 👀 I’m interested in datascience anld machine learning engineer
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: 
